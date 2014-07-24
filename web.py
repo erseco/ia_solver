@@ -1,6 +1,21 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
+# 2014 Ernesto Serrano <info@ernesto.es>
+#
+# NOTA: Este script está creado con fines educativos, no me responsabilizo
+# 		del mal uso que se le pueda dar.
+#
+# Este script extrae las preguntas y respuetas guardadas en 
+# ficheros html y genera un script greasemonkey que utiliza esa base de 
+# conocimiento para marcar las preguntas del cuestionario.
+#
+# Este escript escribe en la salida estándar, use la redireccion para
+# escribir a un archivo
+#
+# La utilizacion del script es ./webpy > ia.user.js
+#
+
 import sys
 reload(sys)  # Reload does the trick!
 sys.setdefaultencoding('UTF8')
