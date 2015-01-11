@@ -14,3 +14,6 @@ NOTA: Este script está creado con fines educativos, no me responsabilizo del ma
 Este escript escribe en la salida estándar, use la redireccion para escribir a un archivo
 
 La utilizacion del script es __./webpy > ia.user.js__
+
+---
+Si quieres contactar conmigo: http://www.ernesto.es
